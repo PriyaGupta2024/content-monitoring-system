@@ -117,19 +117,19 @@ def calculate_score(keyword, content):
 
 ### 🔹 Keyword Creation
 
-![Keyword API](result_imges\API_keywords.png)
+![Keyword API](result_imges/API_keywords.png)
 
 ### 🔹 Scan API
 
-![Scan API](result_imges\API_scaning.png)
+![Scan API](result_imges/API_scaning.png)
 
 ### 🔹 Get Flags
 
-![Flags API](result_imges\API_flags.png)
+![Flags API](result_imges/API_flags.png)
 
 ### 🔹 Update Status
 
-![Update API](result_imges\API_update.png)
+![Update API](result_imges/API_update.png)
 
 ---
 
